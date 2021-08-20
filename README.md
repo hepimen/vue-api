@@ -21,15 +21,11 @@ npm run lint
 ```
 
 ### Handle Eror
-```
 See [Axios Handle Error](https://github.com/axios/axios#handling-errors).
-```
 
 
 ### API for testing
-```
 thanks to [lukePeavey](https://github.com/lukePeavey/quotable)
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
