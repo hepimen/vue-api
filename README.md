@@ -28,7 +28,7 @@ See [Axios Handle Error](https://github.com/axios/axios#handling-errors).
 thanks to [lukePeavey](https://github.com/lukePeavey/quotable)
 
 ### Example
-![Test](/img-example/capture-1.png)
+![Test](https://github.com/hepimen/vue-api/blob/master/img-example/capture-1.JPG)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
